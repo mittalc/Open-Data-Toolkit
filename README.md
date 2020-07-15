@@ -17,19 +17,18 @@ Back end-
     
  <h1> The file structue is as followed </h1> 
   <b>1.</b> Documentation
-  <li> 
-    <li>
-      <li>
+  <li> This folder contains text file for the documentation. 
+  
         
   <b>2.</b> Source Code
    <li> Main.java - It is the driver class for the code 
      <li> Collect - This folder contains code for classes collect.java, manage.java and sql file 
        <li> GUI.java - This class contains the code for the graphical user interface for the application
          <li> User Interface - This folder contains the code for front end it has html, css and javascript files
+           <li> Feature - This folder contains classes forn the features that are to be added in the application 
         
-  <b>3.</b> Features
-  <li> This folder contains classes forn the features that are to be added in the application 
-  
-  <b>1.</b>
+  <b>3.</b> Testing Strategy
+  <li> 
+=
   
 
