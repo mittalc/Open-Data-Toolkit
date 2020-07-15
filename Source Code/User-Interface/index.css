@@ -1,1 +1,94 @@
-// Styling file for index.html
+.header {
+ position: top;
+  background-color:#34495e;
+  width: 100%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.header1 {
+  margin: 0;
+  margin-top:-30px;
+  padding: 0;
+  height: 100vh;
+  text-align: center;
+  min-height: 500px;
+  background-image: url('./pictures/header-image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.col1{
+	color: black;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200%;
+}
+.header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color:#34495e;
+  overflow: hidden;
+  
+}
+
+.header li a {
+  display: block;
+  padding: 20px 20px;
+  border-right: 1px solid #f4f4f4;
+  text-decoration: none;
+}
+.header li a:hover {
+  background-color: black;
+}
+
+.header .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 10px 20px;
+  margin-right:630px;
+  text-decoration: none;
+}
+
+html, body {
+     height:100%;
+     padding:0px;
+     margin:0px;
+     background: white;
+ }
+
+@media (min-width: 48em) {
+  .header li {
+    float: left;
+  }
+  .header li a {
+    padding: 20px 30px;
+  }
+}
+
+
+.container3{
+	background-color:black;
+}
+
+.footer-links{
+	text-align: center;
+}
+
+.footer1{
+	padding-top:10px;
+	padding-left:30px;
+	text-align: center;
+	font-size: 150%;
+}
+
+.copyright-text{
+	text-align: right;
+	font-weight: bold;
+	text-decoration:none;
+}
