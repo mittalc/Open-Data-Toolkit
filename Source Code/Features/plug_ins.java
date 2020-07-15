@@ -1,5 +1,5 @@
-// This is the media class that contains the media data
-public class media{
+// This is the plug_ins class that contains the plug_ins data
+public class plug_ins{
   public static void main(String[] args)
   {
     private String plug_ins;
