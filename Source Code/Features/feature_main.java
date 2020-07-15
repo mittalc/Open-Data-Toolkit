@@ -32,7 +32,5 @@ public class feature_main{
     public String to_String(){
       return String;                            
     }
-  }
-                       
-                   
-}s
+  }                   
+}
