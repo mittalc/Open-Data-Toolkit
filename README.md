@@ -15,7 +15,7 @@ Back end-
 <li> Java
   <li> MySql
     
- <h1> The file structue is as followed 
+ <h1> The file structue is as followed </h1> 
   <b>1.</b> Documentation
   <li> 
     <li>
