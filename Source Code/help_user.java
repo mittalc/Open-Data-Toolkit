@@ -1,5 +1,5 @@
 // This is the help class to help user with any complaint
-public class help_user{
+public class help_user implements main{
   public static void main(String[] args)
   {
     private String Data;
