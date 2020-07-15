@@ -28,7 +28,6 @@ Back end-
            <li> Feature - This folder contains classes forn the features that are to be added in the application 
         
   <b>3.</b> Testing Strategy
-  <li> 
-=
+  <li> This Folder will cinatain all the test cases for the application 
   
 
