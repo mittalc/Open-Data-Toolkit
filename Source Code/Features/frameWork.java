@@ -1,5 +1,5 @@
 // This is the frameWork class that contains the frameWork data
-public class frameWork{
+public class frameWork implements feature_main{
   public static void main(String[] args)
   {
     private String Data;
