@@ -1,5 +1,5 @@
 // This is the media class that contains the media data
-public class media{
+public class media implements feature_main{
   public static void main(String[] args)
   {
     private String media;
