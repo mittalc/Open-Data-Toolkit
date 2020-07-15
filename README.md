@@ -3,12 +3,19 @@ We are making an open data toolkit project, where people can come with there dat
 
 <h1> Languages and Framworks used </h1>
 We have used the following languages for source code 
-<break>
+<br>
 Front end - 
 <li> HTML5
   <li> CSS3
     <li> Javascript 
-      <li> REact.js
+      <li> React.js
         
+<br>
+Back end-
+<li> Java
+  <li> MySql
+    
+ <h1> The file structue is as followed 
+  
   
 
